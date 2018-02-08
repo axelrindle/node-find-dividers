@@ -4,5 +4,6 @@
   "description": "Find the number of dividers for a number.",
   "main": "index.js",
   "author": "Axel Rindle <axel.rindle@gmx.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git@github.com:axelrindle/node-find-dividers.git"
 }
