@@ -1,4 +1,4 @@
-module.exports = (n, excludeOne = true) => {
+module.exports = (n, excludeOne = false) => {
   let list = []
   for (var i = 1; i <= n; i++) if (n % i == 0) list.push(i)
   if (excludeOne) list = list.filter(n => n !== 1)
