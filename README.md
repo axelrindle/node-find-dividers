@@ -21,3 +21,6 @@ console.log(count); // => 9
 
 #### Returns
 An array with all found dividers.
+
+## License
+[MIT](LICENSE)
