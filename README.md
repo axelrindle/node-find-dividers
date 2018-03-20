@@ -22,5 +22,8 @@ console.log(count); // => 9
 #### Returns
 An array with all found dividers.
 
+## Related
+- [node-find-dividers-cli](https://github.com/axelrindle/node-find-dividers-cli)
+
 ## License
 [MIT](LICENSE)
