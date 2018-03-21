@@ -10,7 +10,7 @@ console.log(divs); // => [1, 2, 4, 5, 10, 20, 25, 50, 100]
 ```
 
 ## API
-### `function dividers(n, excludeOne = true)`
+### `function dividers(n, excludeOne = false)`
 > Finds all dividers for a given number.
 
 #### Parameters
