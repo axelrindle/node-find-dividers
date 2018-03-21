@@ -3,10 +3,10 @@
 
 ## Usage
 ```javascript
-const dividers = require('find-dividers');
+const findDividers = require("find-dividers");
 
-let count = dividers(100);
-console.log(count); // => 9
+let divs = findDividers(100);
+console.log(divs); // => [1, 2, 4, 5, 10, 20, 25, 50, 100]
 ```
 
 ## API
