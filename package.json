@@ -5,8 +5,5 @@
   "main": "./lib/index.js",
   "author": "Axel Rindle <axel.rindle@gmx.de>",
   "license": "MIT",
-  "repository": "git@github.com:axelrindle/node-find-dividers.git",
-  "bin": {
-    "find-dividers": "cli.js"
-  }
+  "repository": "git@github.com:axelrindle/node-find-dividers.git"
 }
