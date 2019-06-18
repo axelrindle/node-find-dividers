@@ -1,6 +1,6 @@
 {
   "name": "find-dividers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find the number of dividers for a number.",
   "main": "./lib/index.js",
   "author": "Axel Rindle <axel.rindle@gmx.de>",
