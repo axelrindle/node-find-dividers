@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": "git@github.com:axelrindle/node-find-dividers.git",
   "devDependencies": {
-    "ava": "^1.4.1"
+    "ava": "^3.5.0"
   },
   "scripts": {
     "test": "ava"
