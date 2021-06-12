@@ -1,3 +1,5 @@
+# No longer maintained.
+
 ![](https://github.com/axelrindle/node-find-dividers/workflows/Test/badge.svg)
 
 # node-find-dividers
